@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "865883285451",
+    "firebase_url": "https://lab4-firebase-75c0b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lab4-firebase-75c0b",
+    "storage_bucket": "lab4-firebase-75c0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865883285451:android:789508c855b63ecac5b84e",
+        "android_client_info": {
+          "package_name": "com.example.lab4_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4aeT_CrVhNZwiPCnTkvL3odTz949kJZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
